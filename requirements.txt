@@ -1,0 +1,8 @@
+requests
+scikit-learn
+pandas
+joblib
+SpeechRecognition
+gTTS
+playsound
+pyaudio
